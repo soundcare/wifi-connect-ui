@@ -86,7 +86,7 @@ export const NetworkInfoForm = ({
 			mt={5}
 		>
 			<Heading.h2 align="center" mb={2}>
-				SoundFlux
+				SoundCare
 			</Heading.h2>
 
 			<Heading.h3 align="center" mb={4}>
